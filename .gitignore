@@ -1,0 +1,7 @@
+*.csv
+*.zip
+.idea/
+venv/
+*.egg-info
+*.svg
+__pycache__
